@@ -132,5 +132,6 @@ dmypy.json
 config/config.yml
 config/config.env
 mongodb
+static
 
 docker-compose.dev.yml
