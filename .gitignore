@@ -135,3 +135,5 @@ mongodb
 static
 
 docker-compose.dev.yml
+
+mongodb/
